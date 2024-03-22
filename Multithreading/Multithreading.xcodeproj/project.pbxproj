@@ -18,6 +18,18 @@
 		9D38874C2BAAFB95003DAEA8 /* Task2.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38874B2BAAFB95003DAEA8 /* Task2.3.swift */; };
 		9D38874E2BAAFD3D003DAEA8 /* Task2.4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38874D2BAAFD3D003DAEA8 /* Task2.4.swift */; };
 		9D3887512BAAFE38003DAEA8 /* Task2.6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887502BAAFE38003DAEA8 /* Task2.6.swift */; };
+		9D3887732BABA3A2003DAEA8 /* Task3.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887722BABA3A2003DAEA8 /* Task3.1.swift */; };
+		9D3887762BAC343C003DAEA8 /* Task3.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887752BAC343C003DAEA8 /* Task3.2.swift */; };
+		9D3887782BAC37E9003DAEA8 /* Task3.4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887772BAC37E9003DAEA8 /* Task3.4.swift */; };
+		9D38877B2BAC5CC9003DAEA8 /* Task3.5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38877A2BAC5CC9003DAEA8 /* Task3.5.swift */; };
+		9D38877D2BAC6BF5003DAEA8 /* Task3.6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38877C2BAC6BF5003DAEA8 /* Task3.6.swift */; };
+		9D38877F2BACA30B003DAEA8 /* Task3.7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38877E2BACA30B003DAEA8 /* Task3.7.swift */; };
+		9D3887812BAD55B2003DAEA8 /* Task4.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887802BAD55B2003DAEA8 /* Task4.1.swift */; };
+		9D3887842BAD5877003DAEA8 /* Task4.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887832BAD5877003DAEA8 /* Task4.2.swift */; };
+		9D3887862BAD5B86003DAEA8 /* Task4.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887852BAD5B86003DAEA8 /* Task4.3.swift */; };
+		9D3887882BAD5CC0003DAEA8 /* Task4.4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887872BAD5CC0003DAEA8 /* Task4.4.swift */; };
+		9D38878A2BAD61AD003DAEA8 /* Task3.1Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887892BAD61AD003DAEA8 /* Task3.1Star.swift */; };
+		9D38878D2BAD62F5003DAEA8 /* Task3.2Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38878C2BAD62F5003DAEA8 /* Task3.2Star.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +47,19 @@
 		9D38874D2BAAFD3D003DAEA8 /* Task2.4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2.4.swift; sourceTree = "<group>"; };
 		9D38874F2BAAFE0F003DAEA8 /* Task2.5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Task2.5.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9D3887502BAAFE38003DAEA8 /* Task2.6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task2.6.swift; sourceTree = "<group>"; };
+		9D3887722BABA3A2003DAEA8 /* Task3.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.1.swift; sourceTree = "<group>"; };
+		9D3887752BAC343C003DAEA8 /* Task3.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.2.swift; sourceTree = "<group>"; };
+		9D3887772BAC37E9003DAEA8 /* Task3.4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.4.swift; sourceTree = "<group>"; };
+		9D3887792BAC3816003DAEA8 /* Task3.3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Task3.3.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9D38877A2BAC5CC9003DAEA8 /* Task3.5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.5.swift; sourceTree = "<group>"; };
+		9D38877C2BAC6BF5003DAEA8 /* Task3.6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.6.swift; sourceTree = "<group>"; };
+		9D38877E2BACA30B003DAEA8 /* Task3.7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.7.swift; sourceTree = "<group>"; };
+		9D3887802BAD55B2003DAEA8 /* Task4.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4.1.swift; sourceTree = "<group>"; };
+		9D3887832BAD5877003DAEA8 /* Task4.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4.2.swift; sourceTree = "<group>"; };
+		9D3887852BAD5B86003DAEA8 /* Task4.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4.3.swift; sourceTree = "<group>"; };
+		9D3887872BAD5CC0003DAEA8 /* Task4.4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4.4.swift; sourceTree = "<group>"; };
+		9D3887892BAD61AD003DAEA8 /* Task3.1Star.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.1Star.swift; sourceTree = "<group>"; };
+		9D38878C2BAD62F5003DAEA8 /* Task3.2Star.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.2Star.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +96,9 @@
 				9D3887312BAAF8AD003DAEA8 /* SceneDelegate.swift */,
 				9D3887432BAAF94A003DAEA8 /* Task1 */,
 				9D3887462BAAFA79003DAEA8 /* Task2 */,
+				9D3887742BABA3A4003DAEA8 /* Task3 */,
+				9D38878B2BAD61B1003DAEA8 /* Task3Star */,
+				9D3887822BAD55B8003DAEA8 /* Task4 */,
 				9D3887382BAAF8B0003DAEA8 /* Assets.xcassets */,
 				9D38873A2BAAF8B0003DAEA8 /* LaunchScreen.storyboard */,
 				9D38873D2BAAF8B0003DAEA8 /* Info.plist */,
@@ -98,6 +126,40 @@
 				9D3887502BAAFE38003DAEA8 /* Task2.6.swift */,
 			);
 			path = Task2;
+			sourceTree = "<group>";
+		};
+		9D3887742BABA3A4003DAEA8 /* Task3 */ = {
+			isa = PBXGroup;
+			children = (
+				9D3887722BABA3A2003DAEA8 /* Task3.1.swift */,
+				9D3887752BAC343C003DAEA8 /* Task3.2.swift */,
+				9D3887792BAC3816003DAEA8 /* Task3.3.playground */,
+				9D3887772BAC37E9003DAEA8 /* Task3.4.swift */,
+				9D38877A2BAC5CC9003DAEA8 /* Task3.5.swift */,
+				9D38877C2BAC6BF5003DAEA8 /* Task3.6.swift */,
+				9D38877E2BACA30B003DAEA8 /* Task3.7.swift */,
+			);
+			path = Task3;
+			sourceTree = "<group>";
+		};
+		9D3887822BAD55B8003DAEA8 /* Task4 */ = {
+			isa = PBXGroup;
+			children = (
+				9D3887802BAD55B2003DAEA8 /* Task4.1.swift */,
+				9D3887832BAD5877003DAEA8 /* Task4.2.swift */,
+				9D3887852BAD5B86003DAEA8 /* Task4.3.swift */,
+				9D3887872BAD5CC0003DAEA8 /* Task4.4.swift */,
+			);
+			path = Task4;
+			sourceTree = "<group>";
+		};
+		9D38878B2BAD61B1003DAEA8 /* Task3Star */ = {
+			isa = PBXGroup;
+			children = (
+				9D3887892BAD61AD003DAEA8 /* Task3.1Star.swift */,
+				9D38878C2BAD62F5003DAEA8 /* Task3.2Star.swift */,
+			);
+			path = Task3Star;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -170,15 +232,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D38877D2BAC6BF5003DAEA8 /* Task3.6.swift in Sources */,
+				9D38877B2BAC5CC9003DAEA8 /* Task3.5.swift in Sources */,
 				9D3887342BAAF8AD003DAEA8 /* Part1.1.swift in Sources */,
 				9D3887512BAAFE38003DAEA8 /* Task2.6.swift in Sources */,
 				9D3887482BAAFA85003DAEA8 /* Part2.1.swift in Sources */,
+				9D3887732BABA3A2003DAEA8 /* Task3.1.swift in Sources */,
 				9D3887452BAAFA0A003DAEA8 /* Part1.2.swift in Sources */,
 				9D38874A2BAAFADC003DAEA8 /* Part2.2.swift in Sources */,
+				9D38878D2BAD62F5003DAEA8 /* Task3.2Star.swift in Sources */,
+				9D38877F2BACA30B003DAEA8 /* Task3.7.swift in Sources */,
 				9D3887302BAAF8AD003DAEA8 /* AppDelegate.swift in Sources */,
 				9D3887322BAAF8AD003DAEA8 /* SceneDelegate.swift in Sources */,
+				9D38878A2BAD61AD003DAEA8 /* Task3.1Star.swift in Sources */,
 				9D38874C2BAAFB95003DAEA8 /* Task2.3.swift in Sources */,
+				9D3887882BAD5CC0003DAEA8 /* Task4.4.swift in Sources */,
+				9D3887862BAD5B86003DAEA8 /* Task4.3.swift in Sources */,
 				9D38874E2BAAFD3D003DAEA8 /* Task2.4.swift in Sources */,
+				9D3887842BAD5877003DAEA8 /* Task4.2.swift in Sources */,
+				9D3887762BAC343C003DAEA8 /* Task3.2.swift in Sources */,
+				9D3887812BAD55B2003DAEA8 /* Task4.1.swift in Sources */,
+				9D3887782BAC37E9003DAEA8 /* Task3.4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
