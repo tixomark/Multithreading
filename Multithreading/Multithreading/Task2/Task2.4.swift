@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class ViewController6: UIViewController {
+final class ViewController24: UIViewController {
     // B выведется в самом конце, так как эта задача была добавлена на серийную очередь, в то время как на ней испольнялся viewDidLoad. В будет ждать, пока главная очередь обвободится.
     override func viewDidLoad() {
         super.viewDidLoad()

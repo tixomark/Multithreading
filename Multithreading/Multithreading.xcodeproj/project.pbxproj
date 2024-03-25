@@ -30,6 +30,14 @@
 		9D3887882BAD5CC0003DAEA8 /* Task4.4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887872BAD5CC0003DAEA8 /* Task4.4.swift */; };
 		9D38878A2BAD61AD003DAEA8 /* Task3.1Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887892BAD61AD003DAEA8 /* Task3.1Star.swift */; };
 		9D38878D2BAD62F5003DAEA8 /* Task3.2Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38878C2BAD62F5003DAEA8 /* Task3.2Star.swift */; };
+		9D38878F2BAE1D58003DAEA8 /* Task5.1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38878E2BAE1D58003DAEA8 /* Task5.1.swift */; };
+		9D3887922BAE23E7003DAEA8 /* Task5.3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887912BAE23E7003DAEA8 /* Task5.3.swift */; };
+		9D3887942BAE23F5003DAEA8 /* Task5.2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887932BAE23F5003DAEA8 /* Task5.2.swift */; };
+		9D3887962BAE293B003DAEA8 /* Task5.4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887952BAE293B003DAEA8 /* Task5.4.swift */; };
+		9D3887982BAE2A08003DAEA8 /* Task5.5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887972BAE2A08003DAEA8 /* Task5.5.swift */; };
+		9D38879A2BAF4769003DAEA8 /* Task5.6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D3887992BAF4769003DAEA8 /* Task5.6.swift */; };
+		9D38879C2BAF48EC003DAEA8 /* Task5.7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38879B2BAF48EC003DAEA8 /* Task5.7.swift */; };
+		9D38879E2BAF4B20003DAEA8 /* Task5.8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D38879D2BAF4B20003DAEA8 /* Task5.8.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +68,14 @@
 		9D3887872BAD5CC0003DAEA8 /* Task4.4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task4.4.swift; sourceTree = "<group>"; };
 		9D3887892BAD61AD003DAEA8 /* Task3.1Star.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.1Star.swift; sourceTree = "<group>"; };
 		9D38878C2BAD62F5003DAEA8 /* Task3.2Star.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task3.2Star.swift; sourceTree = "<group>"; };
+		9D38878E2BAE1D58003DAEA8 /* Task5.1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.1.swift; sourceTree = "<group>"; };
+		9D3887912BAE23E7003DAEA8 /* Task5.3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.3.swift; sourceTree = "<group>"; };
+		9D3887932BAE23F5003DAEA8 /* Task5.2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.2.swift; sourceTree = "<group>"; };
+		9D3887952BAE293B003DAEA8 /* Task5.4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.4.swift; sourceTree = "<group>"; };
+		9D3887972BAE2A08003DAEA8 /* Task5.5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.5.swift; sourceTree = "<group>"; };
+		9D3887992BAF4769003DAEA8 /* Task5.6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.6.swift; sourceTree = "<group>"; };
+		9D38879B2BAF48EC003DAEA8 /* Task5.7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.7.swift; sourceTree = "<group>"; };
+		9D38879D2BAF4B20003DAEA8 /* Task5.8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task5.8.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +115,7 @@
 				9D3887742BABA3A4003DAEA8 /* Task3 */,
 				9D38878B2BAD61B1003DAEA8 /* Task3Star */,
 				9D3887822BAD55B8003DAEA8 /* Task4 */,
+				9D3887902BAE1D5C003DAEA8 /* Task5 */,
 				9D3887382BAAF8B0003DAEA8 /* Assets.xcassets */,
 				9D38873A2BAAF8B0003DAEA8 /* LaunchScreen.storyboard */,
 				9D38873D2BAAF8B0003DAEA8 /* Info.plist */,
@@ -160,6 +177,21 @@
 				9D38878C2BAD62F5003DAEA8 /* Task3.2Star.swift */,
 			);
 			path = Task3Star;
+			sourceTree = "<group>";
+		};
+		9D3887902BAE1D5C003DAEA8 /* Task5 */ = {
+			isa = PBXGroup;
+			children = (
+				9D38878E2BAE1D58003DAEA8 /* Task5.1.swift */,
+				9D3887932BAE23F5003DAEA8 /* Task5.2.swift */,
+				9D3887912BAE23E7003DAEA8 /* Task5.3.swift */,
+				9D3887952BAE293B003DAEA8 /* Task5.4.swift */,
+				9D3887972BAE2A08003DAEA8 /* Task5.5.swift */,
+				9D3887992BAF4769003DAEA8 /* Task5.6.swift */,
+				9D38879B2BAF48EC003DAEA8 /* Task5.7.swift */,
+				9D38879D2BAF4B20003DAEA8 /* Task5.8.swift */,
+			);
+			path = Task5;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -235,17 +267,25 @@
 				9D38877D2BAC6BF5003DAEA8 /* Task3.6.swift in Sources */,
 				9D38877B2BAC5CC9003DAEA8 /* Task3.5.swift in Sources */,
 				9D3887342BAAF8AD003DAEA8 /* Part1.1.swift in Sources */,
+				9D3887982BAE2A08003DAEA8 /* Task5.5.swift in Sources */,
+				9D3887922BAE23E7003DAEA8 /* Task5.3.swift in Sources */,
 				9D3887512BAAFE38003DAEA8 /* Task2.6.swift in Sources */,
 				9D3887482BAAFA85003DAEA8 /* Part2.1.swift in Sources */,
 				9D3887732BABA3A2003DAEA8 /* Task3.1.swift in Sources */,
 				9D3887452BAAFA0A003DAEA8 /* Part1.2.swift in Sources */,
+				9D38879C2BAF48EC003DAEA8 /* Task5.7.swift in Sources */,
+				9D38879E2BAF4B20003DAEA8 /* Task5.8.swift in Sources */,
 				9D38874A2BAAFADC003DAEA8 /* Part2.2.swift in Sources */,
 				9D38878D2BAD62F5003DAEA8 /* Task3.2Star.swift in Sources */,
 				9D38877F2BACA30B003DAEA8 /* Task3.7.swift in Sources */,
+				9D3887962BAE293B003DAEA8 /* Task5.4.swift in Sources */,
+				9D38879A2BAF4769003DAEA8 /* Task5.6.swift in Sources */,
 				9D3887302BAAF8AD003DAEA8 /* AppDelegate.swift in Sources */,
+				9D38878F2BAE1D58003DAEA8 /* Task5.1.swift in Sources */,
 				9D3887322BAAF8AD003DAEA8 /* SceneDelegate.swift in Sources */,
 				9D38878A2BAD61AD003DAEA8 /* Task3.1Star.swift in Sources */,
 				9D38874C2BAAFB95003DAEA8 /* Task2.3.swift in Sources */,
+				9D3887942BAE23F5003DAEA8 /* Task5.2.swift in Sources */,
 				9D3887882BAD5CC0003DAEA8 /* Task4.4.swift in Sources */,
 				9D3887862BAD5B86003DAEA8 /* Task4.3.swift in Sources */,
 				9D38874E2BAAFD3D003DAEA8 /* Task2.4.swift in Sources */,

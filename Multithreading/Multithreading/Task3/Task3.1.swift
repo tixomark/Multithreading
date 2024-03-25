@@ -9,7 +9,7 @@ import UIKit
  
 //MARK: - Решение через Semaphor
 
-final class ViewController8: UIViewController {
+final class ViewController31: UIViewController {
     
     let semaphore = DispatchSemaphore(value: 1)
     

@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class ViewController7: UIViewController {
+final class ViewController26: UIViewController {
     private var _name = "Введите имя"
     private var lock = NSLock()
     

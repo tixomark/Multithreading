@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController18: UIViewController {
+class ViewController31Star: UIViewController {
     override func viewDidLoad() {
     super.viewDidLoad()
         
@@ -22,7 +22,7 @@ class ViewController18: UIViewController {
             
             
             lock.unlock()
-//            lock.lock() 
+//            lock.lock()
             // Оно умрет прямо тут, так как lock заблокировал доступ к коду дальше. Ну и все, он не пропустит, пока его не разблокируешь
             // Надо либо его совсем убрать(он тут только проблемы создает). Либо разблокировать.
             print("D")

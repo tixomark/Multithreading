@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController12: UIViewController {
+class ViewController35: UIViewController {
     
     let semaphore = DispatchSemaphore(value: 1)
     override func viewDidLoad() {

@@ -15,8 +15,8 @@ import UIKit
  
  Тут то мы ограницили количество потоков. Но не ограаниыили соличество потоков, которые могут одновременно образаться к someDate
  */
-class ViewController19: UIViewController {
-    lazy var someDate: Date = { 
+class ViewController32Star: UIViewController {
+    lazy var someDate: Date = {
         lock.lock()
         defer { lock.unlock() }
         print(" \n initialization happens only once!")

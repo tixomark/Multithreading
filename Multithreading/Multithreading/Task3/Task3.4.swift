@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class ViewController11: UIViewController {
+final class ViewController34: UIViewController {
     let lock = NSLock()
     
     override func viewDidLoad() {

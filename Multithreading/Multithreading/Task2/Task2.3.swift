@@ -7,7 +7,7 @@
 
 import UIKit
 
-final class ViewController5: UIViewController {
+final class ViewController23: UIViewController {
     private var name = "Введите имя"
     private let lockQueue = DispatchQueue(label: "name.lock.queue")
     
